@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Manthan",
+      "number": " 8889749510",
+      "email": "manthanpaliwal01@gamil.com"
+    },
+    {
+      "id": 2,
+      "name": "Manthan paliwal",
+      "number": " 9691649667",
+      "email": "0701cs181031@gamil.com"
+    },
+    {
+      "id": 3,
+      "name": "karan",
+      "number": " 9691649667",
+      "email": "karanpaliwal@gamil.com"
+    },
+    {
+      "name": "mantadkd",
+      "number": "4569963",
+      "email": "karanpaliwalji123@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Manthan Paliwal",
+      "number": "77777777777777",
+      "email": "manthanpaliwal01@gmail.com",
+      "id": 6
+    },
+    {
+      "id": 8,
+      "name": "Manthan Paliwal",
+      "number": "09691649667",
+      "email": "karanpaliwalji@gmail.com"
+    }
+  ]
+}
